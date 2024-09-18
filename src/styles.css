@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ph-type-display {
+  @apply text-60 leading-68 -tracking-3;
+}
